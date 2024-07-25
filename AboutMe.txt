@@ -1,0 +1,5 @@
+name: Krishal
+age: 14
+favorite subject: Science
+hobbies: Sports and Video games
+fun facts: I like soccer
